@@ -7,7 +7,7 @@
 ### Date : 12-01-21
 ### Time : 19:30
 ### Topic: First Client Meet
-### Attendees: Mehul Mathur, Abhishekh Sivakumar, Kawshik Manikantan, Kanish Anand, Suresh Neti
+### Attendees: Mehul Mathur, Abhishekh Sivakumar, Kushal Jain, Kawshik Manikantan, Kanish Anand, Suresh Neti
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
